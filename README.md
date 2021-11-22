@@ -7,4 +7,5 @@ There are two primary reasons why we may want to run IoT Edge on K8s cluster, th
 ## Solution
 
 This is now moved to Azure-Samples, you can find the link for it below:
+
 https://github.com/Azure-Samples/IoT-Edge-K8s-KubeVirt-Deployment
